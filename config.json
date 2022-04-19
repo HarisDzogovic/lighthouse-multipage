@@ -1,0 +1,13 @@
+{
+    "lighthouseFlags": {
+        "screenEmulation": "",
+        "formFactor":"",
+        "throttlingMethod": "",
+        "logLevel":"info",
+        "output":"html",
+        "port":"",
+        "onlyCategories":["performance"]
+    },
+    "chromeFlags": ["--headless"],
+    "reportDir": "reports/"
+}

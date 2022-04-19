@@ -1,0 +1,7 @@
+{
+    "pages": [
+        {"name":"Google", "url":"https://www.google.de/"},
+        {"name":"Wikipedia", "url":"https://www.wikipedia.org/"},
+        {"name":"Github", "url":"https://github.com/"}
+        ]
+}
